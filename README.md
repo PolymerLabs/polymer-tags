@@ -2,6 +2,12 @@
 
 Template-literal-based templates for Polymer 2.0
 
+## 🚧 This is a deprecated early experiment. Please see lit-html 🚧
+
+This code was an initial attempt to add template-literal based templates directly to Polymer 2 as a mixin. These ideas were brough into lit-html as a standalone library, but this code is useful for archeology on how to wire up extensions to Polymer's template system.
+
+This repo is unmaintained, please use lit-html instead: https://github.com/PolymerLabs/lit-html
+
 ## Example
 
 ```javascript
